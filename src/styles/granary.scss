@@ -1,0 +1,35 @@
+.label-cyan,
+.label-white {
+  visibility: hidden;
+  font-size: 16px;
+  .lb-main {
+    position: relative;
+    .text {
+      position: absolute;
+      top: -50px;
+      left: 20px;
+      width: 100px;
+      color: #03b5b3;
+    }
+    .cls-img {
+      position: absolute;
+      top: -30px;
+      left: 0px;
+    }
+  }
+  .lb-main2 {
+    position: relative;
+    .text {
+      position: absolute;
+      top: -120px;
+      left: 55px;
+      width: 100px;
+      color: #ffffff;
+    }
+    .cls-img {
+      position: absolute;
+      top: -100px;
+      left: 0px;
+    }
+  }
+}
